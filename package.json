@@ -41,5 +41,10 @@
   "dependencies": {
     "@next/env": "^16.0.8",
     "next": "^16.0.8"
+  },
+  "overrides": {
+    "better-auth": "1.4.5",
+    "next": "16.0.9",
+    "drizzle-orm": "0.45.2"
   }
 }
